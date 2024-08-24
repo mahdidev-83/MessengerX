@@ -25,7 +25,7 @@ MessengerX is a free, open-source chat application built for Windows, enabling m
 2. **Run and Open the Application**:  
    Open messengerX v.1.0.0.exe 
 
-3. **Install Dependencies (Optional for Developers)**:  
+3. **Install Dependencies (Essential for Developers)**:  
    If you want to run the project from the source code, you'll need to install the following dependencies:
    ```bash
    NuGet\Install-Package EntityFramework -Version 6.5.1
