@@ -38,7 +38,7 @@ for setting up the database you have to have the latest version of MSSQL and you
 2. Login : amanekam_USER
 3. Password : Pqgm74#90
 
-## Contributation 
+## Contribution 
 1. Fork the repository and clone it to your text editor.
 2. Create a new Branch for the new feature.
 3. Make some Changes.
