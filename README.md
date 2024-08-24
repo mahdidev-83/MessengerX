@@ -2,22 +2,17 @@
 
 MessengerX is a free, open-source chat application built for Windows, enabling messaging between users. It includes core features such as private messaging, with an intuitive user interface.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/user/repo/ci.yml?branch=main)](https://github.com/user/repo/actions)  
-[![License](https://img.shields.io/github/license/user/repo)](https://opensource.org/licenses/MIT)
-
 ## Table of Contents
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Database Setup](#database-setup)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [License](#license)
-7. [Contact](#contact)
+4. [Contribution](#contribution)
+5. [Contact](#contact)
 
 ## Features
 - Real-time messaging
-- Group chats
-- File and media sharing
+- Private Chat
+- Deleting Messages
 - User authentication and profiles
 - Push notifications
 - Customizable user settings
