@@ -37,3 +37,10 @@ for setting up the database you have to have the latest version of MSSQL and you
 1. Server Name : 94.74.145.28,2022
 2. Login : amanekam_USER
 3. Password : Pqgm74#90
+
+## Contributation 
+1. Fork the repository and clone it to your text editor.
+2. Create a new Branch for the new feature.
+3. Make some Changes.
+4. Push your changes and submit pull request.
+   
