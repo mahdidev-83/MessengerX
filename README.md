@@ -20,10 +20,10 @@ MessengerX is a free, open-source chat application built for Windows, enabling m
 ## Installation
 
 1. **Download the Setup File**:  
-   Download the latest version of the setup file from the [Releases](https://github.com/user/repo/releases) page.
+   Download the latest version of the application file from the [Releases](https://github.com/user/repo/releases) page.
 
-2. **Run the Setup**:  
-   Follow the instructions in the installer to install MessengerApp on your Windows machine.
+2. **Run and Open the Application**:  
+   Open messengerX v.1.0.0.exe 
 
 3. **Install Dependencies (Optional for Developers)**:  
    If you want to run the project from the source code, you'll need to install the following dependencies:
