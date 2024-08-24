@@ -29,4 +29,4 @@ MessengerX is a free, open-source chat application built for Windows, enabling m
    If you want to run the project from the source code, you'll need to install the following dependencies:
    ```bash
    NuGet\Install-Package EntityFramework -Version 6.5.1
-   dotnet add package MaterialSkin.2 --version 2.3.1
+   NuGet\Install-Package MaterialSkin.2 -Version 2.3.1
