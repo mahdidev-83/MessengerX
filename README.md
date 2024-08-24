@@ -28,5 +28,5 @@ MessengerX is a free, open-source chat application built for Windows, enabling m
 3. **Install Dependencies (Optional for Developers)**:  
    If you want to run the project from the source code, you'll need to install the following dependencies:
    ```bash
-   pip install -r requirements.txt  # Python dependencies (if any)
-   npm install  # Node.js dependencies (if any)
+   NuGet\Install-Package EntityFramework -Version 6.5.1
+   dotnet add package MaterialSkin.2 --version 2.3.1
