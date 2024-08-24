@@ -1,0 +1,22 @@
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for NativeTextRenderer: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.ColorHelper: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.DrawHelper: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Extensions: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.MaterialSkinManager: Type has no Constructors visible to the assembly. The Constructor itself or a parameter may not be visible..
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Controls.FlexibleMaterialForm: Type has no Constructors visible to the assembly. The Constructor itself or a parameter may not be visible..
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Controls.MaterialToolStripRender: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Controls.MaterialDivider: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Animations.AnimationManager: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Animations.AnimationLinear: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Animations.AnimationEaseInOut: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Animations.AnimationEaseOut: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate stub for MaterialSkin.Animations.AnimationCustomQuadratic: Type is sealed.
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for NativeTextRenderer+BlendFunction: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for NativeTextRenderer+Rect: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.DrawHelper: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Extensions: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Controls.MaterialToolStripRender: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Controls.MaterialTextBox+RECT: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Animations.AnimationManager: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Animations.AnimationLinear: Type is not visible to exported or assembly(MaterialSkin.Fakes).
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\Fakes\MaterialSkin.fakes : warning : Cannot generate shim for MaterialSkin.Animations.AnimationEaseInOut: Type is not visible to exported or assembly(MaterialSkin.Fakes).

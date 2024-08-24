@@ -1,0 +1,54 @@
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\messengerX v.1.0.0.exe.config
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\messengerX v.1.0.0.exe
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\messengerX v.1.0.0.pdb
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\EntityFramework.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\MaterialSkin.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\System.ValueTuple.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\Tulpep.NotificationWindow.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\MaterialSkin.Fakes.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\MaterialSkin.Fakes.xml
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.csprojFakesResolveAssemblyReference.cache
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.csproj.AssemblyReference.cache
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.CreateNewAccount.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.EmailVerfication.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.FindUser.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.MainWindow.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.jasem.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.MessengerWindow.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.InitialCreate.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.ProfilePicture.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.Relations.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.BlockedUsers.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.Message.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.Message1.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.Message2.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.Message3.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Properties.Resources.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.SelectProfilePic.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.SignInWindow.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.SplashScreen.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.tst.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.UserMessenger.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.csproj.GenerateResource.cache
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.csproj.CoreCompileInputs.cache
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messenge.DD49D8E0.Up2Date
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.exe
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX v.1.0.0.pdb
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.BannedWindow.resources
+E:\C# Projects\messengerX v.1.0.0\messengerX v.1.0.0\obj\Debug\messengerX_v._1._0._0.Migrations.isBlocked.resources
