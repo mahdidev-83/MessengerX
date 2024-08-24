@@ -1,4 +1,4 @@
-# MessengerApp - A Windows-based Chat Application
+# MessengerX - A Windows-based Chat Application
 
 MessengerApp is a lightweight, open-source chat application built for Windows, enabling seamless messaging between users. It includes core features such as private messaging, group chats, and file sharing, with an intuitive user interface.
 
