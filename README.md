@@ -48,4 +48,4 @@ for setting up the database you have to have the latest version of MSSQL and you
 If you have any questions, suggestions, or issues, feel free to reach out to me via:
 
 - Author: Mahdi Noroozi(Mantounio)
-- Email: mahdidev83@gmail.com
+- Email: mahdidev83@gmail.com 
