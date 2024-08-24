@@ -30,3 +30,10 @@ MessengerX is a free, open-source chat application built for Windows, enabling m
    ```bash
    NuGet\Install-Package EntityFramework -Version 6.5.1
    NuGet\Install-Package MaterialSkin.2 -Version 2.3.1
+
+## Database Setup
+
+for setting up the database you have to have the latest version of MSSQL and you have to set the authentication to Sql Server authentication and enter MessengerX Developer Database information:
+1. Server Name : 94.74.145.28,2022
+2. Login : amanekam_USER
+3. Password : Pqgm74#90
